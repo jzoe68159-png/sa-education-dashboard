@@ -28,9 +28,9 @@ I cleaned and merged all these indicators, computed a Gender Parity Index (GPI) 
 - Streamlit – interactive web app framework
 
 # Screenshots
-- graph_1&2.png
-- graph_3&4.png
-- gpi_graph.png
+- `graph_1&2.png`
+- `graph_3&4.png`
+- `gpi_graph.png`
   
 # Key Insights
 - No education (age 15‑19) dropped from 35% in 1960 to near 0% in 2010 – a huge success.
