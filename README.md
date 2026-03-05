@@ -51,7 +51,7 @@ I cleaned and merged all these indicators, computed a Gender Parity Index (GPI) 
 - `README.md` – you're reading it!
 
 # Author
-**Zoe John** – [your email or LinkedIn link if you want]
+**Zoe John** 
 
 If you have any questions or suggestions, feel free to reach out.
 
