@@ -1,4 +1,4 @@
-- South Africa Education Trends Dashboard (1960–2025)
+# South Africa Education Trends Dashboard (1960–2025)
 
 An interactive data dashboard exploring six decades of educational attainment, gender equality, and learning outcomes in South Africa. Built with Python and Streamlit, this project combines multiple international datasets to visualise long‑term trends and uncover key insights.
 
@@ -27,8 +27,11 @@ I cleaned and merged all these indicators, computed a Gender Parity Index (GPI) 
 - SQLite – for storing the cleaned data
 - Streamlit – interactive web app framework
 
-
-
+# Screenshots
+- graph_1&2.png
+- graph_3&4.png
+- gpi_graph.png
+  
 # Key Insights
 - No education (age 15‑19) dropped from 35% in 1960 to near 0% in 2010 – a huge success.
 - Secondary completion (age 20‑24) soared from under 10% to over 70% in the same period.
