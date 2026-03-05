@@ -28,11 +28,13 @@ I cleaned and merged all these indicators, computed a Gender Parity Index (GPI) 
 - Streamlit – interactive web app framework
 
 # Screenshots
-- `graph_1&2.png`
-- `graph_3&4.png`
-- `gpi_graph.png`
-  
-# Key Insights
+Dashboard Preview
+
+![Attainment Trends](graph_1&2.png)
+![Attainment Trends](graph_3&4.png)
+![Gender Parity Index](gpi_graph.png)
+
+  # Key Insights
 - No education (age 15‑19) dropped from 35% in 1960 to near 0% in 2010 – a huge success.
 - Secondary completion (age 20‑24) soared from under 10% to over 70% in the same period.
 - Females overtook males in secondary completion after 1985 (GPI > 1.0).
