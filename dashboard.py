@@ -95,7 +95,7 @@ for i, col in enumerate(gpi_cols):
 plt.tight_layout()
 st.pyplot(fig)
 
-# Optional raw data display
+# (Optional) raw data display
 if st.checkbox("Show raw data"):
     st.subheader("Raw Data")
     st.dataframe(df_filtered)
